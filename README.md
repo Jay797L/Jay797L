@@ -61,10 +61,4 @@
 |--------|----------|------------|
 | [**Bookmark Manager**](https://github.com/Jay797L/Bookmark-Manager) | Персональный менеджер закладок с JWT-авторизацией, тегами, поиском и фильтрацией | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker |
 
----
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jay797L&show_icons=true&theme=radical&hide_border=true)
-
-</div>
