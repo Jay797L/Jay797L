@@ -2,7 +2,7 @@
 
 # Леонид Старостин
 
-**Python Backend-разработчик**
+**Backend-разработчик**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jay797L)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starostinleonid1@gmail.com)
@@ -14,7 +14,7 @@
 
 ## Обо мне
 
-Начинающий Python-разработчик с фокусом на backend. Участвовал в командной разработке и code review, работал с Git и GitLab. В процессе обучения реализовал веб-приложения с AI, roguelike-игру с процедурной генерацией и backend-сервисы.
+Начинающий разработчик с фокусом на backend. Участвовал в командной разработке и code review, работал с Git и GitLab. В процессе обучения реализовал веб-приложения с AI, roguelike-игру с процедурной генерацией и backend-сервисы. Ранее изучал C и Python, в данный момент изучаю Java.
 
 ---
 
@@ -23,11 +23,10 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -35,7 +34,7 @@
 
 <div align="center">
 
-`Python` · `C/C++` · `asyncio` · `PostgreSQL` · `pytest` · `Docker` · `Git` · `Flask` · `FastAPI` · `REST API` · `SQL` · `Linux` · `Bash`
+`Python` · `Java` · `C/C++` · `PostgreSQL` · `Docker` · `Git` · `REST API` · `SQL` · `Linux` · `Bash`
 
 </div>
 
